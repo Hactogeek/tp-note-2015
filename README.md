@@ -1,11 +1,2 @@
-Tony Marteau
-
-git log
-
-git remote
-
-git status
-
-git diff
-
-git diff HEAD
+*Tony Marteau
+*****
