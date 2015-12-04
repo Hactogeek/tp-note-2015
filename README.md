@@ -1,11 +1,11 @@
 *Tony Marteau
 *****
 
-git log
+Historique commit : git log
 
-git remote
+Liste les différente remot : git remote
 
-git status
+Etat des fichiers :git status
 
-git diff
+Différence entre fichier indéxé et modifié : git diff
 
